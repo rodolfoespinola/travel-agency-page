@@ -1,0 +1,37 @@
+body {
+    background-color: #e6f4ea;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #2e7d32;
+}
+h2 {
+    color: #388e3c;
+}
+img {
+    max-width: 100%;
+    border: 2px solid #388e3c;
+    margin: 0 auto;
+    display: block;
+}
+figure {
+    margin: 20px auto;
+    max-width: 600px;
+}
+figcaption {
+    font-style: italic;
+    color: #555;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+ul li {
+    margin: 5px 0;
+}
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
